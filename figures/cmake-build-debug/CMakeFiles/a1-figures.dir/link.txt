@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/a1-figures.dir/src/main.cpp.o CMakeFiles/a1-figures.dir/src/utilities/math/MathUtilities.cpp.o  -o a1-figures 

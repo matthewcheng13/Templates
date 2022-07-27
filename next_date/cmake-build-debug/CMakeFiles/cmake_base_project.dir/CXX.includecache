@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utilities/math/MathUtilities.h
+iostream
+-
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/Assignment 1/next_date/src/main.cpp
+iostream
+-
+utilities/math/MathUtilities.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/Assignment 1/next_date/src/utilities/math/MathUtilities.h
+

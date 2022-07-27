@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utilities/math/MathUtilities.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/Assignment 1/figure_printing/src/main.cpp
+iostream
+-
+utilities/math/MathUtilities.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/Assignment 1/figure_printing/src/utilities/math/MathUtilities.h
+
+/Users/matthewcheng/Desktop/CSCI 303/Projects/Assignment 1/figure_printing/src/utilities/math/MathUtilities.cpp
+utilities/math/MathUtilities.h
+/Users/matthewcheng/Desktop/CSCI 303/Projects/Assignment 1/figure_printing/src/utilities/math/utilities/math/MathUtilities.h
+
